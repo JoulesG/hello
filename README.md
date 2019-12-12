@@ -1,0 +1,2 @@
+# hello
+week cs50
